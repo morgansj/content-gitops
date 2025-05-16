@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: widgeman2/gitops:hellov1.1
+        image: widgeman2/gitops:hellov1.2
